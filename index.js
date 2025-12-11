@@ -4,5 +4,6 @@ function sample() {
 }
 
 function anotherFunction() {
-    console.log("This is another function")
+    console.log("This is another function");
+    console.log("Another line in another function");
 }
